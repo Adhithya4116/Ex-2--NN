@@ -1,6 +1,6 @@
 <H3>Name : ADHITHYA PERUMAL D</H3>
 <H3>Register no: 212222230007</H3>
-<H3>Date: 10.09.2024</H3>
+<H3>Date: </H3>
 <H3>Experiment No. 2 </H3>
   Implementation of Perceptron for Binary Classification
 # AIM:
